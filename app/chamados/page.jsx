@@ -8,7 +8,7 @@ export default function Home() {
       </div>
 
       <div className="flex items-center justify-center mt-10">
-        <h1 className="text-5xl text-blue-800 font-bold">Chamados, Clientes</h1>
+        <h1 className="text-5xl text-blue-800 font-bold">Atendimentos, Clientes</h1>
       </div>
 
       <Image src="/empresa.png" width={700} height={600} alt="Imagem da empresa"/>
